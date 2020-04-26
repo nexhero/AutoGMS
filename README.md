@@ -1,5 +1,5 @@
 # AutoGMS
-Shortcuts for create resource,edit, debug game on GameMakerStudio 2 on Linux.
+Shortcuts to create resource,edit,debug game on GameMakerStudio 2 on Linux.
 
 # Demo
 [![Demo](https://github.com/nexhero/AutoGMS/raw/master/assets/autogms.gif "Demo")](https://github.com/nexhero/AutoGMS/raw/master/assets/autogms.gif "Demo")
